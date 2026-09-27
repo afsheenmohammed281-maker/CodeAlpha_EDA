@@ -1,4 +1,4 @@
-# CodeAlpha Exploratory Data Analysis - Sales Data Analysis
+# CodeAlpha Exploratory Data Analysis - Sample Superstore Dataset (CSV format)
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python.
