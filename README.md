@@ -1,9 +1,22 @@
-# CodeAlpha Exploratory Data Analysis - Sample Superstore Dataset (CSV format)
+# CodeAlpha Exploratory Data Analysis
 
 ## Project Overview
-This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python.
+
+This project performs Exploratory Data Analysis (EDA) on the Sample Superstore sales dataset using Python.
+
+## Objectives
+
+- Understand the structure of the dataset
+- Check data quality
+- Analyze sales patterns
+- Identify top-performing products and cities
+- Examine sales trends over time
+- Analyze shipping modes
+- Investigate the relationship between discount and profit
+- Perform statistical hypothesis testing
 
 ## Tools Used
+
 - Python
 - Pandas
 - NumPy
@@ -12,22 +25,18 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset using P
 - SciPy
 - Jupyter Notebook
 
-## Analysis Performed
-- Dataset exploration
-- Data quality checks
-- Missing value analysis
-- Duplicate analysis
-- Outlier analysis
-- Sales analysis by product, city and category
-- Sales trend analysis
-- Shipping mode analysis
-- Discount and profit relationship
-- Profit distribution
-- Spearman correlation hypothesis testing
-
 ## Key Findings
-- Technology had the highest total sales among categories.
-- Phones generated the highest total sales among products.
-- Sales showed an overall upward tendency over time.
+
+- Technology generated the highest total sales among the categories.
+- Phones generated approximately $330,007 in total sales.
+- New York City recorded the highest sales among the analyzed cities.
 - Standard Class was the most frequently used shipping mode.
 - Discount and profit showed a moderate negative association.
+- Time and daily sales showed a weak positive association.
+
+## Files
+
+- `CodeAlpha_EDA.ipynb` — Complete EDA notebook
+- `Sample-Superstore.1.csv` — Dataset
+- `README.md` — Project documentation
+
