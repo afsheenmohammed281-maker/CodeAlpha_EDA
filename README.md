@@ -40,7 +40,7 @@ This project performs Exploratory Data Analysis (EDA) on the Sample Superstore s
 - `Sample-Superstore.1.csv` — Dataset
 - `README.md` — Project documentation
 
-  ## Conclusion
+## Conclusion
 
 This project demonstrates the use of Exploratory Data Analysis techniques to understand the Sample Superstore dataset. The analysis explored sales patterns, product and city performance, shipping modes, time-based trends, and the relationship between discount and profit. Statistical analysis was also performed to support the findings and identify meaningful relationships within the dataset.
 
